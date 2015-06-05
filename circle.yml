@@ -51,4 +51,4 @@ test:
     - ./wp-cli.phar plugin list --path=wordpress
     
     # Finally, run our Behat features
-    - vendor/bin/behat
+    #- vendor/bin/behat
